@@ -1,3 +1,3 @@
 # Projekt1
-Nauka Linux
+Nauka Linux.
 Repozytorium utworzone do nauki GIT na Linux
