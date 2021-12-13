@@ -1,0 +1,1 @@
+utworzony w konsoli Linux
